@@ -1,0 +1,16 @@
+VERSÃO 1.3 — EXPORTAÇÃO NO MODELO ORIGINAL
+
+Substitua os arquivos do seu projeto por esta versão, envie ao GitHub e faça um novo deploy na Vercel.
+
+Configuração: Vite; npm ci; npm run build; saída dist.
+
+Para executar no Windows, abra a pasta dietas-vercel no VS Code:
+npm ci
+npm run dev
+
+Leia README.md para as instruções completas.
+A exportação agora usa cinco abas e gráficos nativos do Excel.
+
+Novo gráfico: solicitações e média até liberação por dia/hora, no site e no Excel.
+
+Filtro de dia no Excel: Painel, campo azul M141. Gráfico de 00h a 23h, sem sobreposição.
